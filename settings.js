@@ -21,18 +21,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['2348143692706'] //ur owner number
-global.ownernomer = "2348143692706" //ur owner number2
+global.owner = ['2349151864541'] //ur owner number
+global.ownernomer = "2349151864541" //ur owner number2
 global.ownername = "☯️𝐅𝐑𝐄𝐃𝐃𝐘 𝐌𝐈𝐋𝐋𝐒 𝐁𝐎𝐓☯️" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: Anonphoenix007" //ur github or insta name
 global.location = "nigeria, lagos, abuja" //ur location
 
 //new
-global.botname = "☯️𝐏𝐇𝐎𝐄𝐍𝐈𝐗 𝐁𝐎𝐓☯️"
-global.ownernumber = '2348143692706'
+global.botname = "☯️ᖴᖇEᗪEᖇIᑕK Cheems-𝐁𝐎𝐓☯️"
+global.ownernumber = '2349151864541'
 global.ownername = '☯️𝐅𝐑𝐄𝐃𝐃𝐘 𝐌𝐈𝐋𝐋𝐒 𝐁𝐎𝐓☯️'
-global.ownerNumber = ["2348143692706@s.whatsapp.net"]
+global.ownerNumber = ["2349151864541@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://wa.me/+2348143692706"
@@ -41,8 +41,8 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = ""
 global.author = "☯️𝐅𝐑𝐄𝐃𝐃𝐘 𝐌𝐈𝐋𝐋𝐒 𝐁𝐎𝐓☯️\n\n"
-global.creator = "2348143692706@s.whatsapp.net"
-global.prefa = ['☯️','!','.','#','☯️']
+global.creator = "2349151864541@s.whatsapp.net"
+global.prefa = ['-']
 global.sessionName = 'session'
 global.hituet = 0
 
