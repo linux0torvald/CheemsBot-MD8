@@ -35,14 +35,14 @@ global.ownername = '☯️𝐅𝐑𝐄𝐃𝐃𝐘 𝐌𝐈𝐋𝐋𝐒 𝐁𝐎
 global.ownerNumber = ["2349151864541@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://wa.me/+2348143692706"
+global.wagc = "https://wa.me/+2349151864541"
 global.themeemoji = '☯️'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = ""
 global.author = "☯️𝐅𝐑𝐄𝐃𝐃𝐘 𝐌𝐈𝐋𝐋𝐒 𝐁𝐎𝐓☯️\n\n"
 global.creator = "2349151864541@s.whatsapp.net"
-global.prefa = ['-']
+global.prefa = ['','!','.','#','&'] 
 global.sessionName = 'session'
 global.hituet = 0
 
